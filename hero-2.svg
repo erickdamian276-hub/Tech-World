@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Red de dispositivos conectados">
+  <rect width="800" height="500" fill="#071422"/>
+  <circle cx="160" cy="150" r="180" fill="#0c3148"/>
+  <circle cx="220" cy="230" r="18" fill="#b7f3ff"/>
+  <circle cx="420" cy="140" r="18" fill="#3ecbff"/>
+  <circle cx="610" cy="250" r="18" fill="#b7f3ff"/>
+  <circle cx="360" cy="340" r="18" fill="#3ecbff"/>
+  <path d="M220 230 L420 140 L610 250 L360 340 Z" fill="none" stroke="#7ad7ff" stroke-width="4"/>
+  <rect x="250" y="175" width="280" height="150" rx="20" fill="#10283a" stroke="#b7f3ff" stroke-width="3"/>
+  <path d="M290 250 h200 M290 220 h120" stroke="#eaf4ff" stroke-width="8" stroke-linecap="round"/>
+  <text x="70" y="450" fill="#7ad7ff" font-family="Segoe UI, Arial" font-size="28" font-weight="700">GALERIA 02</text>
+</svg>

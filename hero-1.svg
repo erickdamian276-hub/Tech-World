@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Espacio tecnológico">
+  <rect width="800" height="500" fill="#0d1522"/>
+  <circle cx="620" cy="120" r="140" fill="#14304d"/>
+  <rect x="70" y="90" width="360" height="230" rx="18" fill="#101b2b" stroke="#2f9bff" stroke-width="3"/>
+  <rect x="92" y="112" width="316" height="160" rx="8" fill="#07111c"/>
+  <path d="M120 250 h80 M120 226 h140 M120 202 h100" stroke="#7ad7ff" stroke-width="6" stroke-linecap="round"/>
+  <rect x="250" y="190" width="120" height="70" rx="8" fill="#16324e" stroke="#7ad7ff"/>
+  <rect x="180" y="320" width="140" height="16" rx="8" fill="#243246"/>
+  <rect x="470" y="180" width="250" height="170" rx="28" fill="#122033" stroke="#7ad7ff" stroke-width="3"/>
+  <circle cx="595" cy="265" r="46" fill="none" stroke="#2f9bff" stroke-width="8"/>
+  <circle cx="595" cy="265" r="12" fill="#7ad7ff"/>
+  <path d="M500 390 h220" stroke="#2f9bff" stroke-width="4" stroke-linecap="round"/>
+</svg>

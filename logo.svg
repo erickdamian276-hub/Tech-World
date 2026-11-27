@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TECH WORLD">
+  <rect width="64" height="64" rx="16" fill="#071018"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#2f9bff" stroke-width="2"/>
+  <path d="M14 42 L24 16 h6 L20 42z M28 42 L38 16 h6 L34 42z" fill="#eaf4ff"/>
+  <circle cx="48" cy="18" r="3.2" fill="#7ad7ff"/>
+  <path d="M12 48 h40" stroke="#2f9bff" stroke-width="2" stroke-linecap="round"/>
+</svg>

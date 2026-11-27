@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Computadoras, segunda vista">
+  <rect width="800" height="500" fill="#071422"/>
+  <rect x="90" y="110" width="280" height="250" rx="16" fill="#10283a" stroke="#b7f3ff" stroke-width="4"/>
+  <rect x="430" y="70" width="250" height="320" rx="24" fill="#10283a" stroke="#3ecbff" stroke-width="4"/>
+  <rect x="120" y="145" width="220" height="120" fill="#07111c"/>
+  <rect x="470" y="110" width="170" height="220" rx="8" fill="#07111c"/>
+  <circle cx="555" cy="360" r="10" fill="#b7f3ff"/>
+  <text x="48" y="70" fill="#7ad7ff" font-family="Segoe UI, Arial" font-size="28" font-weight="700">02</text>
+</svg>

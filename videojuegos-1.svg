@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Videojuegos">
+  <rect width="800" height="500" fill="#0d1522"/>
+  <rect x="150" y="160" width="500" height="190" rx="90" fill="#142033" stroke="#2f9bff" stroke-width="4"/>
+  <circle cx="290" cy="255" r="18" fill="#7ad7ff"/>
+  <path d="M270 255 h40 M290 235 v40" stroke="#07111c" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="500" cy="235" r="12" fill="#2f9bff"/>
+  <circle cx="540" cy="270" r="12" fill="#eaf4ff"/>
+  <circle cx="460" cy="270" r="12" fill="#7ad7ff"/>
+  <circle cx="500" cy="305" r="12" fill="#2f9bff"/>
+</svg>
